@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeWork-Stick</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+   
+   <div class="wrapper">
+      <div class="top-block"><h1>top-block top-block top-block</h1></div>
+      <div class="middle-block"><h2>midle-block midle-block midle-block midle-block midle-block midle-block</h2></div>
+      <div class="bottom-block"><h3>bottom-block bottom-block bottom-block bottom-block bottom-block bottom-block</h3>
+      
+      
+</body>
+</html>

@@ -1,0 +1,39 @@
+.wrapper{
+    position: relative;
+    height: 1140;
+}
+
+.top-block{
+    top: 0;
+    width: 100%;
+    background-color: blue;
+    height: 40px;
+    position: sticky;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.middle-block{
+
+    width: 100%;
+    background-color: brown;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.bottom-block{
+
+    width: 100%;
+    background-color: blueviolet;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
